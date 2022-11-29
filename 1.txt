@@ -1,0 +1,27 @@
+24
+E->E+E
+E->E-E
+E->E*E
+E->E-E
+E->++E
+E->--E
+E->E/E
+E->E^E
+E->E==E
+E->E!=E
+E->E=E
+E->E+=E
+E->E-=E
+E->E/=E
+E->E%=E
+E->E>>=E
+E->E<<=E
+E->E&=E
+E->E^=E
+E->E&&E
+E->E||E
+E->E|E
+E->id
+E->(E)
+
+id %= id * ( id + ++ id )
